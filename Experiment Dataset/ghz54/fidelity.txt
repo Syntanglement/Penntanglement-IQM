@@ -1,0 +1,17 @@
+GHZ Witness Fidelity Lower Bound with 54 qubits and 1024 shots
+
+
+zz_sum = 0
+zz_sum = 9.283203125
+
+
+
+zz_avg = 0.17515477594339623
+
+
+
+x_val = -0.025390625
+
+
+
+fidelity lower bound = 0.07488207547169812
