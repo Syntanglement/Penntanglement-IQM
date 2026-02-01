@@ -1,0 +1,2 @@
+N,shots,zz_avg,x_val,fidelity_lb,depth_Z,depth_X,ops_Z,ops_X,note
+54,1024,0.36147553066037735,0.029296875,0.19538620283018868,216,216,"{'r': 236, 'cz': 129, 'measure': 54, 'barrier': 1}","{'r': 274, 'cz': 129, 'measure': 54, 'barrier': 1}",cz_native_optimized
