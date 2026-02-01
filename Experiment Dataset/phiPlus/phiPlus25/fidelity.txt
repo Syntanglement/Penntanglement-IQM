@@ -1,0 +1,9 @@
+phiPlus Witness Fidelity Lower Bound with 25 qubits and 1024 shots
+
+
+zz_sum = 18.38671875
+zz_avg = 0.76611328125
+
+x_val = 0.130859375
+
+fidelity lower bound = 0.448486328125

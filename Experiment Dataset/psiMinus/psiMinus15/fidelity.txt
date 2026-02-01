@@ -1,0 +1,9 @@
+psiMinus Witness Fidelity Lower Bound with 15 qubits and 1024 shots
+
+
+zz_sum = 11.314453125
+zz_avg = 0.8081752232142857
+
+x_val = -0.359375
+
+fidelity lower bound = 0.5837751116071428
